@@ -1,0 +1,15 @@
+{
+  "name": "github-actions-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/patrickmilnes/github-actions-ts.git",
+  "author": "Patrick <pjamilnes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.7",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
